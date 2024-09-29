@@ -12,7 +12,10 @@ Files
 -- main.js: JavaScript for dynamic behavior
 
 Preview
--- Screenshots are included in the images/ folder.
+![alt text](<Preview 1.png>)
+![alt text](<Preview 2.png>)
+![alt text](<Preview 3.png>)
+![alt text](<Preview 4.png>)
 
 Installation
 -- Clone the repo:
